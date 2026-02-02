@@ -1,5 +1,1 @@
-# variable
-x=3
-
-y = 5
-
+This is Udemy Python Courses Repo
